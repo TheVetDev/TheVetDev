@@ -1,4 +1,6 @@
-### Hi there 👋
+### Why hello!
+
+I'm currently working with the documentation team for Vets Who Code. Will find ways to pimp this out later.
 
 <!--
 **TheVetDev/TheVetDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
