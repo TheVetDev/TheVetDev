@@ -1,7 +1,10 @@
 ## Tim Apple - AKA TheVetDev
 
+---
+
 I'm a developer mainly focused at Front End at this time but have a strong interest in Rust.
 I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io).
+
 ---
 
 ### My Places
