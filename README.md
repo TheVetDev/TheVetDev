@@ -1,26 +1,25 @@
-### Tim Apple - AKA TheVetDev
+## Tim Apple - AKA TheVetDev
 
 I'm a developer mainly focused at Front End at this time but have a strong interest in Rust.
 I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io).
 ---
 
-## You can find me at the follwing places. 
-
-[Twitter](https://twitter.com/thevetdev)
-[Dev](https://dev.to/thevetdev)
-[Hashnode](https://timapple.dev)
-[Facebook](https://fb.com/thevetdev)
-[My Dev Feed Blogified](https://thevet.dev)
-[My Neocities Cheese](https://timapple.neocities.org/)
-[Email](mailto:timapple@hey.com)
+### My Places
+* [Twitter](https://twitter.com/thevetdev)
+* [Dev](https://dev.to/thevetdev)
+* [Hashnode](https://timapple.dev)
+* [Facebook](https://fb.com/thevetdev)
+* [My Dev Feed Blogified](https://thevet.dev)
+* [My Neocities Cheese](https://timapple.neocities.org/)
+* [Email](mailto:timapple@hey.com)
 
 ---
 
-## Throw a guy a bone.
+### Throw a guy a bone.
 
-[Paypal](https://paypal.me/vetdev)
-[Venmo](https://www.venmo.com/thevetdev)
-[Ko-fi](https://ko-fi.com/thevetdev)
+* [Paypal](https://paypal.me/vetdev)
+* [Venmo](https://www.venmo.com/thevetdev)
+* [Ko-fi](https://ko-fi.com/thevetdev)
 
 <!--
 **TheVetDev/TheVetDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
