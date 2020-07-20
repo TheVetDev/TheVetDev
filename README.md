@@ -18,6 +18,10 @@ I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io
 
 ---
 
+[![Tim's github stats](https://github-readme-stats.vercel.app/api?username=thevetdev)](https://github.com/thevetdev/github-readme-stats)
+
+---
+
 ### Throw a guy a bone.
 
 * [Paypal](https://paypal.me/vetdev)
