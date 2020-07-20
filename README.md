@@ -2,8 +2,8 @@
 
 ---
 
-I'm a developer mainly focused at Front End at this time but have a strong interest in Rust.
-I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io).
+Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Love Python🐍 tolerate JS. Someday will delve into Rust. 
+I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io) who were so kind as to introduce me to the crazy world of developing.
 
 ---
 
