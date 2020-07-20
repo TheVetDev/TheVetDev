@@ -7,10 +7,10 @@ I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io
 
 ---
 
-### My Places
+### My Places 💌
 * [Twitter](https://twitter.com/thevetdev)
 * [Dev](https://dev.to/thevetdev)
-* [Hashnode](https://timapple.dev)
+* [My Blog](https://timapple.dev)
 * [Facebook](https://fb.com/thevetdev)
 * [My Dev Feed Blogified](https://thevet.dev)
 * [My Neocities Cheese](https://timapple.neocities.org/)
@@ -22,7 +22,7 @@ I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io
 
 ---
 
-### Throw a guy a bone.
+### Throw a guy a bone 💲
 
 * [Paypal](https://paypal.me/vetdev)
 * [Venmo](https://www.venmo.com/thevetdev)
