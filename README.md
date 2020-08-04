@@ -2,7 +2,7 @@
 
 ---
 
-Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Love Python🐍 tolerate JS. Someday will delve into Rust. 
+Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Love Rust🦀 tolerate JS. Someday will delve more into Ruby💎. 
 I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io) who were so kind as to introduce me to the crazy world of developing.
 
 ---
