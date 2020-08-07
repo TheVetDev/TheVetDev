@@ -24,6 +24,11 @@ I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io
 
 ### Blog Posts
 <!-- HASHNODE:START -->
+- [Rustacean does Javascript](https://timapple.dev/rustacean-does-javascript-ckdelxbqr004m8ms15l28dbaj)
+- [Install Rbenv and Ruby on elementary os, quick and dirty.](https://timapple.dev/install-rbenv-and-ruby-on-elementary-os-quick-and-dirty-ckcxokgjb006teks101lj3q1g)
+- [Hello Hashnode!](https://timapple.dev/hello-hashnode-ckcm44zlx0008ims1dpwn3h76)
+- [Quick and Dirty Ubuntu JavaScript Setup](https://timapple.dev/quick-and-dirty-ubuntu-javascript-setup-ckcxpjaeq008cf0s14wr8081k)
+- [Windows JS Dev in WSL Redux](https://timapple.dev/windows-js-dev-in-wsl-redux-ckcxphcvu0087f0s16jtt5jgp)
 <!-- HASHNODE:END -->
 
 ---
