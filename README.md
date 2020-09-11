@@ -8,13 +8,13 @@ I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io
 ---
 
 ### My Places 💌
-* [Twitter](https://twitter.com/thevetdev)
+* [Twitter](https://twitter.com/tapple233066)
 * [Dev](https://dev.to/thevetdev)
 * [My Blog](https://timapple.dev)
-* [Facebook](https://fb.com/thevetdev)
+* [Facebook](https://fb.com/tapple233066)
 * [My Dev Feed Blogified](https://thevet.dev)
 * [My Neocities Cheese](https://timapple.neocities.org/)
-* [Email](mailto:timapple@hey.com)
+* [Email](mailto:timapple@fastmail.com)
 
 ---
 
