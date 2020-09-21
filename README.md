@@ -1,4 +1,4 @@
-## Tim Apple - AKA TheVetDev
+## Tim Apple
 
 ---
 
