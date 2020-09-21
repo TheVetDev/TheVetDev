@@ -8,7 +8,7 @@ I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io
 ---
 
 ### My Places 💌
-* [Twitter](https://twitter.com/tapple233066)
+* [Twitter](https://twitter.com/righteouscode)
 * [Dev](https://dev.to/thevetdev)
 * [My Blog](https://timapple.dev)
 * [Facebook](https://fb.com/tapple233066)
