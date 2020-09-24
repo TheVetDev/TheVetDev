@@ -22,17 +22,6 @@ I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io
 
 ---
 
-### Blog Posts
-<!-- HASHNODE:START -->
-- [Discovering Dart and Flutter](https://timapple.dev/discovering-dart-and-flutter-ckdyl799706dmids1cw0tgylh)
-- [Rustacean does Javascript](https://timapple.dev/rustacean-does-javascript-ckdelxbqr004m8ms15l28dbaj)
-- [Install Rbenv and Ruby on elementary os, quick and dirty.](https://timapple.dev/install-rbenv-and-ruby-on-elementary-os-quick-and-dirty-ckcxokgjb006teks101lj3q1g)
-- [Hello Hashnode!](https://timapple.dev/hello-hashnode-ckcm44zlx0008ims1dpwn3h76)
-- [Quick and Dirty Ubuntu JavaScript Setup](https://timapple.dev/quick-and-dirty-ubuntu-javascript-setup-ckcxpjaeq008cf0s14wr8081k)
-<!-- HASHNODE:END -->
-
----
-
 ### Throw a guy a bone 💲
 
 * [Paypal](https://paypal.me/vetdev)
