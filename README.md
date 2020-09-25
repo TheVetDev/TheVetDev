@@ -2,19 +2,18 @@
 
 ---
 
-Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Love Rust🦀 tolerate JS. Someday will delve more into Ruby💎. 
-I also work on the Documentation Team at [Vetswhocode.io](https://vetswhocode.io) who were so kind as to introduce me to the crazy world of developing.
+Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Web, flutter and Rust are my main interests. Newly appointed co-host of the [Vets Who Code](https://vetswhocode.io) Podcast, the people who were so kind as to introduce me to the crazy world of developing.
 
 ---
 
 ### My Places 💌
-* [Twitter](https://twitter.com/righteouscode)
-* [Dev](https://dev.to/thevetdev)
+* [Twitter](https://twitter.com/heytimapple)
+* [Dev](https://dev.to/heytimapple)
 * [My Blog](https://timapple.dev)
 * [Facebook](https://fb.com/tapple233066)
 * [My Dev Feed Blogified](https://thevet.dev)
 * [My Neocities Cheese](https://timapple.neocities.org/)
-* [Email](mailto:timapple@fastmail.com)
+* [Email](mailto:tim.apple@hey.com)
 
 ---
 
