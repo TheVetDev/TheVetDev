@@ -25,7 +25,7 @@ Developer at large and drinker of too much coffee☕... actually, is there such 
 
 * [Paypal](https://paypal.me/vetdev)
 * [Venmo](https://www.venmo.com/thevetdev)
-* [Ko-fi](https://ko-fi.com/thevetdev)
+* [Ko-fi](https://ko-fi.com/heytimapple)
 
 <!--
 **TheVetDev/TheVetDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
