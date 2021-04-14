@@ -7,17 +7,13 @@ Developer at large and drinker of too much coffee☕... actually, is there such 
 ---
 
 ### My Places 💌
-* [Twitter](https://twitter.com/heytimapple)
-* [Dev](https://dev.to/heytimapple)
-* [My Blog](https://timapple.dev)
+* [Twitter](https://twitter.com/tda233066)
+* [Dev](https://dev.to/tda233066)
+* [My Blog](https://timapple.com)
 * [Facebook](https://fb.com/tapple233066)
-* [My Dev Feed Blogified](https://thevet.dev)
 * [My Neocities Cheese](https://timapple.neocities.org/)
-* [Email](mailto:tim.apple@hey.com)
+* [Email](mailto:tda233066@gmail.com)
 
----
-
-![Tim's github stats](https://github-readme-stats.vercel.app/api?username=HeyTimApple)
 
 ---
 
