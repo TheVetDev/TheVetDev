@@ -2,7 +2,7 @@
 
 ---
 
-Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Web, flutter and Rust are my main interests. Newly appointed co-host of the [Vets Who Code](https://vetswhocode.io) Podcast, the people who were so kind as to introduce me to the crazy world of developing.
+Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Web, flutter and Rust are my main interests. Former co-host of the [Vets Who Code](https://vetswhocode.io) Podcast, the people who were so kind as to introduce me to the crazy world of developing.
 
 ---
 
@@ -20,7 +20,6 @@ Developer at large and drinker of too much coffee☕... actually, is there such 
 ### Throw a guy a bone 💲
 
 * [Paypal](https://paypal.me/vetdev)
-* [Venmo](https://www.venmo.com/thevetdev)
 * [Ko-fi](https://ko-fi.com/heytimapple)
 
 <!--
