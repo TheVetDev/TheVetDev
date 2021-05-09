@@ -6,6 +6,12 @@ Developer at large and drinker of too much coffee☕... actually, is there such 
 
 ---
 
+### Favorite Quote
+
+"Where there is love, nothing is too much trouble and there is always time" - Abdu'l-Bahá
+
+---
+
 ### My Places 💌
 * [Twitter](https://twitter.com/tda233066)
 * [Dev](https://dev.to/tda233066)
