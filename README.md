@@ -14,9 +14,8 @@ Developer at large and drinker of too much coffee☕... actually, is there such 
 
 ### My Places 💌
 * [Twitter](https://twitter.com/tda233066)
-* [Dev](https://dev.to/tda233066)
 * [My Blog](https://timapple.com)
-* [Facebook](https://fb.com/tapple233066)
+* [My Polywork Profile](https://about.timapple.com)
 * [My Neocities Cheese](https://timapple.neocities.org/)
 * [Email](mailto:tda233066@gmail.com)
 
