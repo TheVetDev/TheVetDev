@@ -2,7 +2,7 @@
 
 ---
 
-Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? Web, flutter and Rust are my main interests. Former co-host of the [Vets Who Code](https://vetswhocode.io) Podcast, the people who were so kind as to introduce me to the crazy world of developing.
+Developer at large and drinker of too much coffee☕... actually, is there such a thing as too much coffee? I started with web development but have moved on with a focus on Dart and Flutter. Former co-host of the [Vets Who Code](https://vetswhocode.io) Podcast, the people who were so kind as to introduce me to the crazy world of developing.
 
 ---
 
