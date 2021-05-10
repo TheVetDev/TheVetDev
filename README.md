@@ -1,4 +1,4 @@
-## Tim Apple
+## Tim Apple 🍎
 
 ---
 
